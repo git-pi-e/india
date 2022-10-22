@@ -51,6 +51,8 @@ For details about the program and the grant recipients, [check out the announcem
 
 If you are looking to make your first contribution to open source, or even an experienced maintainer looking for ways to grow your community — we have resources to help you! Check out the [Open Source Guide](https://opensource.guide) which has many resources on how to start an open-source project, build communities, best practices for maintainers, and a lot more!
 
+Additionally, you can find other online resources such as the [Linux Foundation](https://www.linuxfoundation.org/resources/open-source-guides).
+
 ---
 
 ## :octocat:  Developers
